@@ -1,0 +1,1 @@
+for file in $NAUTILUS_SCRIPT_SELECTED_FILE_PATHS ; do composite -gravity center ~/rights/copyR.png $file $file; done

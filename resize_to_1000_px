@@ -1,0 +1,2 @@
+for file in $NAUTILUS_SCRIPT_SELECTED_FILE_PATHS ; do convert -resize 1000 $file $file; done
+
